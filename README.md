@@ -43,6 +43,7 @@
 <li> Node.js </li>
 <li> Angular </li>
 <li> Next.js </li>
+<li> React </li>
 </ul>
 
 ### 📚 My reading list
