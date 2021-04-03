@@ -1,7 +1,7 @@
 ###### Hello, how are you
 #    My [Web][website] here 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/sendtech_?color=%231DA1F2&label=sendtech_&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/matiasTech_/)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/matiasTech_?color=%231DA1F2&label=sendtech_&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/matiasTech_/)
+[![Discord Chat](https://img.shields.io/discord/790972361688088617?logo=discord&style=for-the-badge)](https://twitter.com/matiasTech_/)
 ---
 
 [<img width="100%" src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
