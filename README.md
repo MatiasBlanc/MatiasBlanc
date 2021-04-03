@@ -1,6 +1,6 @@
 ###### Hello, how are you
 #    My [Web][website] here 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/sendtech_?color=%231DA1F2&label=sendtech_&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/sendtech_/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sendtech_?color=%231DA1F2&label=sendtech_&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/matiasTech_/)
 
 ---
 
