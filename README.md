@@ -10,7 +10,7 @@
 
 ### 🎯 skills
 
---
+---
 
 [<img align="left" alt="Html" width="84.5px" src="http://www.xaviro.com/assets/img/skills/html.svg">][abilites]
 
