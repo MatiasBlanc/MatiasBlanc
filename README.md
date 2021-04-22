@@ -8,7 +8,7 @@
 
 <br/>
 
-### 🎯 Abilites
+### 🎯 skills
 
 ---
 
@@ -20,13 +20,11 @@
 
 [<img align="left" alt="javascript" width="84.5px" src="https://simpleicons.org/icons/javascript.svg">][abilites]
 
-[<img align="left" alt="angular" width="84.5px" src="http://www.xaviro.com/assets/img/skills/angular.svg">][abilites]
+<!-- [<img align="left" alt="node" width="84.5px" src="http://www.xaviro.com/assets/img/skills/node.svg">][abilites] -->
 
-[<img align="left" alt="node" width="84.5px" src="http://www.xaviro.com/assets/img/skills/node.svg">][abilites]
+<!--[<img align="left" alt="Html" width="84.5px" src="http://www.xaviro.com/assets/img/skills/react.svg">][abilites] -->
 
-[<img align="left" alt="Html" width="84.5px" src="http://www.xaviro.com/assets/img/skills/react.svg">][abilites]
-
-[<img align="left" alt="Html" width="84.5px" src="http://www.xaviro.com/assets/img/skills/svg.svg">][abilites]
+<!-- [<img align="left" alt="Html" width="84.5px" src="http://www.xaviro.com/assets/img/skills/svg.svg">][abilites] -->
 
 ---
 ---
@@ -54,8 +52,6 @@
 ### 🔭 I’m currently working on
 <ul>
 <li> My Personal website </li>
-<li> Online Store (specialized for phones) </li>
-<li> Recipe website </li>
 </ul>
 
 <!-- ### 👯 I am looking for a job in -->
@@ -74,7 +70,6 @@
 ### Contact me for
     Mail: in development
     Website: in development
-    Whatsapp: in development
 
 
 
