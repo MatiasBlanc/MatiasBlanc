@@ -70,7 +70,7 @@
 <br>
 
 ### Contact me for
-   > I have a [discord](https://discord.gg/4FUtbhatAg)
+   > I have a [discord](https://discord.gg/4FUtbhatAg) br
    > Mail: in development
    > Website: in development
 
