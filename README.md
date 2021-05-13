@@ -39,7 +39,7 @@
 ### 🚀 I’m currently learning
 <ul>
 <li> English </li>
-<li> [Javascript] (https://github.com/Js-proyects)</li>
+<li> Javascript (https://github.com/Js-proyects)</li>
 <li> Node.js </li>
 <li> Angular </li>
 <li> Next.js </li>
