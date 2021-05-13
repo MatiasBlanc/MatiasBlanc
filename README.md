@@ -19,6 +19,8 @@
 
 <img align="left" alt="logo-Js" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=eee">
 
+<img align="left" alt="logo-Js" src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=orange&labelColor=eee">
+
 <br>
 <br>
 <br>
