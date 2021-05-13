@@ -13,11 +13,11 @@
 ### 🎯 skills
 
 
-<img align="left" alt="Css" width="84.5px" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=eee">
+<img align="left" alt="logo-html" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=eee">
 
-<img align="left" alt="bootstrap" width="84.5px" src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=blue&labelColor=eee">
+<img align="left" alt="logo-css" src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=blue&labelColor=eee">
 
-<img align="left" alt="javascript" width="84.5px" src="https://img.shields.io/badge/Js-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=eee">
+<img align="left" alt="logo-Js" src="https://img.shields.io/badge/Js-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=eee">
 
 <br>
 <br>
