@@ -38,11 +38,9 @@
 
 ### 🚀 I’m currently learning
 <ul>
-<li> English </li>
+<li> English (https://discord.com/invite/programadores)</li>
 <li> Javascript (https://github.com/Js-proyects)</li>
-<li> Node.js </li>
-<li> Angular </li>
-<li> Next.js </li>
+<li> React.js </li>
 </ul>
 
 ### 📚 My reading list
