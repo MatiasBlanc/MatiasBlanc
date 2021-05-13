@@ -4,7 +4,6 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC9qwrWMA03Asi5H8IMrZC9A?color=%23E05D44&label=Suscriptores&logo=YouTube&logoColor=%23E05D44&style=for-the-badge)](https://www.youtube.com/channel/UC9qwrWMA03Asi5H8IMrZC9A)
 ![Github](https://img.shields.io/github/followers/MatiasBlanc?color=%231C1B1B&label=Seguidores&logo=Github&logoColor=%231C1B1B&style=for-the-badge)
 ![Github__stars](https://img.shields.io/github/stars/MatiasBlanc?color=%231C1B1B&label=Estrellas&logo=Github&logoColor=%231C1B1B&style=for-the-badge)
-
 ---
 
 [<img width="100%" src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
@@ -64,13 +63,14 @@
 ### 💬 questions about me
 
 #### how old are you?
-    I have 14 years
+    I have 14 years old
 
 #### you know how to program a website
     Yes, although  depending on how difficult it is
 <br>
 
 ### Contact me for
+[![Discord](https://discord.gg/4FUtbhatAg)]
     Mail: in development
     Website: in development
 
