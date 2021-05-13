@@ -70,9 +70,9 @@
 <br>
 
 ### Contact me for
-   I have a [discord](https://discord.gg/4FUtbhatAg) <br>
-   Mail: in development <br>
-   Website: in development <br>
+    I have a [discord](https://discord.gg/4FUtbhatAg) <br>
+    Mail: in development <br>
+    Website: in development <br>
 
 
 <!-- Links -->
