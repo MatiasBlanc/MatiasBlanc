@@ -39,7 +39,7 @@
 ### 🚀 I’m currently learning
 <ul>
 <li> English </li>
-<li> Javascript (Medium level) </li>
+<li> [Javascript] (https://github.com/Js-proyects)</li>
 <li> Node.js </li>
 <li> Angular </li>
 <li> Next.js </li>
@@ -48,7 +48,6 @@
 ### 📚 My reading list
 <ul>
 <li> Steve Jobs ( Author: Walter Isaacson ) </li>
-<li> Conéctate con el dinero ( Author: Jürgen Klaric ) </li>
 </ul>
 
 ### 🔭 I’m currently working on
@@ -70,9 +69,9 @@
 <br>
 
 ### Contact me for
-    I have a [discord](https://discord.gg/4FUtbhatAg) <br>
-    Mail: in development <br>
-    Website: in development <br>
+   I have a [discord](https://discord.gg/4FUtbhatAg) <br>
+   Mail: in development <br>
+   Website: in development <br>
 
 
 <!-- Links -->
