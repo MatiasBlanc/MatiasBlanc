@@ -63,5 +63,5 @@
 
 
 <!-- Links -->
-[website]: https://matiasblanc.com/
-[abilites]: https://matiasblanc.com/habilidades
+[website]: https://linktr.ee/senderotecnologico
+[abilites]: https://linktr.ee/senderotecnologico
