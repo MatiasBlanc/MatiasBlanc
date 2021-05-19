@@ -1,9 +1,10 @@
 ###### Hello, how are you
 #    My [Web][website] here 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/_sendtech?color=%2322A0ED&label=Sendero%20Tecnologico&logo=twitter&logoColor=%2322A0ED&style=for-the-badge)](https://twitter.com/_SendTech/)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC9qwrWMA03Asi5H8IMrZC9A?color=%23E05D44&label=Suscriptores&logo=YouTube&logoColor=%23E05D44&style=for-the-badge)](https://www.youtube.com/channel/UC9qwrWMA03Asi5H8IMrZC9A)
-![Github](https://img.shields.io/github/followers/MatiasBlanc?color=%231C1B1B&label=Seguidores&logo=Github&logoColor=%231C1B1B&style=for-the-badge)
-![Github__stars](https://img.shields.io/github/stars/MatiasBlanc?color=%231C1B1B&label=Estrellas&logo=Github&logoColor=%231C1B1B&style=for-the-badge)
+ | [![Twitter Follow](https://img.shields.io/twitter/follow/_sendtech?color=%2322A0ED&label=Sendero%20Tecnologico&logo=twitter&logoColor=%2322A0ED&style=for-the-badge)](https://twitter.com/_SendTech/) | 
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC9qwrWMA03Asi5H8IMrZC9A?color=%23E05D44&label=Suscriptores&logo=YouTube&logoColor=%23E05D44&style=for-the-badge)](https://www.youtube.com/channel/UC9qwrWMA03Asi5H8IMrZC9A) | 
+![Github](https://img.shields.io/github/followers/MatiasBlanc?color=%231C1B1B&label=Seguidores&logo=Github&logoColor=%231C1B1B&style=for-the-badge) | 
+![Github__stars](https://img.shields.io/github/stars/MatiasBlanc?color=%231C1B1B&label=Estrellas&logo=Github&logoColor=%231C1B1B&style=for-the-badge) | 
+
 ---
 
 [<img width="100%" src="Banner.png">][website]
@@ -13,13 +14,13 @@
 ### 🎯 skills
 
 
-<img align="left" alt="logo-html" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=eee">
+<p align="center"><img alt="logo-html" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=eee"></p>
 
-<img align="left" alt="logo-css" src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=blue&labelColor=eee">
+<p align="center"><img alt="logo-css" src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=blue&labelColor=eee"></p>
 
-<img align="left" alt="logo-Js" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=eee">
+<p align="center"><img alt="logo-Js" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=eee"></p>
 
-<img align="left" alt="logo-Js" src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=orange&labelColor=eee">
+<p align="center"><img alt="logo-Js" src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=orange&labelColor=eee"></p>
 
 <br>
 <br>
@@ -27,11 +28,11 @@
 <br>
 
 ### 🚀 I’m currently learning
-<ul>
+<ol>
 <li> English (https://discord.com/invite/programadores)</li>
 <li> Javascript (https://github.com/Js-proyects)</li>
 <li> React.js </li>
-</ul>
+</ol>
 
 ### 📚 My reading list
 <ul>
