@@ -7,7 +7,7 @@
 
 ---
 
-[<img width="100%" src="Banner.png">][website]
+[<img width="100%" src="imagen.png">][website]
 
 <br/>
 
