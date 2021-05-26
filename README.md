@@ -66,7 +66,7 @@
 [website]: https://linktr.ee/senderotecnologico
 [abilites]: https://linktr.ee/senderotecnologico
 ### Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBlanc&langs_count=8)](https://github.com/MatiasBlanc)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=radical)](https://github.com/MatiasBlanc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBlanc&langs_count=8&show_icons=true&theme=gotham)](https://github.com/MatiasBlanc)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=gotham)](https://github.com/MatiasBlanc)
 
 
