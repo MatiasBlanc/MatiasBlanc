@@ -28,19 +28,21 @@
 
 ### 🚀 I’m currently learning
 <ol>
-<li> English (https://discord.com/invite/programadores)</li>
-<li> Javascript (https://github.com/Js-proyects)</li>
-<li> React.js </li>
+<li> English (https://discord.gg/63FUkwjTZa)</li>
+<li> Javascript</li>
+<li> Kotlin</li>
 </ol>
 
 ### 📚 My reading list
 <ul>
-<li> Steve Jobs ( Author: Walter Isaacson ) </li>
+<li> Steve Jobs ( Author: Walter Isaacson )</li>
 </ul>
 
 ### 🔭 I’m currently working on
 <ul>
-<li> My Personal website </li>
+<li> Discord bot </li>
+<li> To-do list </li>
+<li> cards game </li>
 </ul>
 
 <!-- ### 👯 I am looking for a job in -->
