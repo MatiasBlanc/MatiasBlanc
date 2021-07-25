@@ -6,8 +6,8 @@
 ![Github_stars](https://img.shields.io/github/stars/MatiasBlanc?color=%231C1B1B&label=Estrellas&logo=Github&logoColor=%231C1B1B&style=for-the-badge) | 
 ---
 
-[<img width="100%" src="Imagen.png">][website]
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[<img width="100%" src="https://lh3.googleusercontent.com/nSRm0pl5XA2FOwy1skvOFdyXvKRj9hiamrAeUcUBr1TMIjqCouUDhH-Fz_PWUnd9B1I_8A=s170">][website]
+[![trophy](https://github-profile-trophy.vercel.app/?Matias Blanc=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 
 ### 🎯 skills
@@ -50,9 +50,6 @@
 <!-- ### 🤔 I’m looking for help with -->
 
 ### 💬 questions about me
-
-#### how old are you?
-    I have 14 years old
 
 #### you know how to program a website
     Yes, although  depending on how difficult it is
