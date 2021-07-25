@@ -6,7 +6,7 @@
 ![Github_stars](https://img.shields.io/github/stars/MatiasBlanc?color=%231C1B1B&label=Estrellas&logo=Github&logoColor=%231C1B1B&style=for-the-badge) | 
 ---
 
-[<img width="100%" src="https://lh3.googleusercontent.com/nSRm0pl5XA2FOwy1skvOFdyXvKRj9hiamrAeUcUBr1TMIjqCouUDhH-Fz_PWUnd9B1I_8A=s170">][website]
+[<img src="image.png">][website]
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/MatiasBlanc)
 <br/>
 
