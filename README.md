@@ -7,7 +7,7 @@
 ---
 
 [<img width="100%" src="https://lh3.googleusercontent.com/nSRm0pl5XA2FOwy1skvOFdyXvKRj9hiamrAeUcUBr1TMIjqCouUDhH-Fz_PWUnd9B1I_8A=s170">][website]
-[![trophy](https://github-profile-trophy.vercel.app/?MatiasBlanc=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/MatiasBlanc)
 <br/>
 
 ### 🎯 skills
