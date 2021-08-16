@@ -65,11 +65,6 @@
 [website]: https://linktr.ee/senderotecnologico
 [abilites]: https://linktr.ee/senderotecnologico
 ### Statistics
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBlanc&langs_count=8&show_icons=true&theme=dark)](https://github.com/MatiasBlanc)
-  [![Matias stats](https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=dark)](https://github.com/MatiasBlanc)
- [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=Peso-Planetastico&show_icons=true&theme=dark)](https://github.com/MatiasBlanc/Peso-Planetastico)
- [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=motorbike-sistem&show_icons=true&theme=dark)](https://github.com/MatiasBlanc/motorbike-sistem) -->
-
 <p align="left">
   <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=dark">
   <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBlanc&&langs_count=10&layout=compact&theme=dark">
