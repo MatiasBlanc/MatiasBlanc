@@ -30,7 +30,7 @@
 <ol>
 <li> English (https://discord.gg/63FUkwjTZa)</li>
 <li> Javascript</li>
-<li> Kotlin</li>
+<li> React</li>
 </ol>
 
 ### 📚 My reading list
@@ -40,9 +40,9 @@
 
 ### 🔭 I’m currently working on
 <ul>
-<li> Discord bot </li>
+<li> Cripto-bal </li>
 <li> To-do list </li>
-<li> cards game </li>
+<li> e-commerce </li>
 </ul>
 
 <!-- ### 👯 I am looking for a job in -->
