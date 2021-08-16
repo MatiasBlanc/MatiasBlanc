@@ -76,6 +76,7 @@
   
    <a href="https://github.com/MatiasBlanc/Peso-Planetastico"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=Peso-Planetastico&langs_count=5&theme=dark">
   <a href="https://github.com/MatiasBlanc/motorbike-sistem"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&card_height=300&&repo=motorbike-sistem&langs_count=5&layout=compact&theme=dark">
-  <a href="https://github.com/MatiasBlanc/salobot-discord"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=salobot-discord&layout=compact&theme=dark">
+  <a href="https://github.com/MatiasBlanc/salobot-discord"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=To-Do-list&layout=compact&theme=dark">
   <a href="https://github.com/MatiasBlanc/Canvas-con-teclas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=Canvas-con-teclas&hide=html,scss,css&langs_count=10&layout=compact&theme=dark">
+  <a href="https://github.com/MatiasBlanc/Canvas-con-teclas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=Comics-info-API&hide=html,scss,css&langs_count=10&layout=compact&theme=dark">
 </p>
