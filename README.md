@@ -71,16 +71,16 @@
  [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=motorbike-sistem&show_icons=true&theme=dark)](https://github.com/MatiasBlanc/motorbike-sistem) -->
 
 <p align="left">
-  <a href="https://github.com/MatiasBlanc%22%3E<img width="400" src="https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=dark%22%3E
-  <a href="https://github.com/MatiasBlanc%22%3E<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBlanc&&langs_count=10&layout=compact&theme=dark%22%3E
+  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=dark">
+  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBlanc&&langs_count=10&layout=compact&theme=dark">
 </p>
-
+    
 ## My repos
-
+    
 <p align="left">
-
-   <a href="https://github.com/MatiasBlanc/Peso-Planetastico%22%3E<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=Peso-Planetastico&langs_count=5&theme=dark%22%3E
-  <a href="https://github.com/MatiasBlanc/motorbike-sistem%22%3E<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&card_height=300&&repo=motorbike-sistem&langs_count=5&layout=compact&theme=dark%22%3E
-  <a href="https://github.com/MatiasBlanc/salobot-discord%22%3E<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=salobot-discord&layout=compact&theme=dark%22%3E
-  <a href="https://github.com/MatiasBlanc/Canvas-con-teclas%22%3E<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=Canvas-con-teclas&hide=html,scss,css&langs_count=10&layout=compact&theme=dark%22%3E
+  
+   <a href="https://github.com/MatiasBlanc/Peso-Planetastico"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=Peso-Planetastico&langs_count=5&theme=dark">
+  <a href="https://github.com/MatiasBlanc/motorbike-sistem"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&card_height=300&&repo=motorbike-sistem&langs_count=5&layout=compact&theme=dark">
+  <a href="https://github.com/MatiasBlanc/salobot-discord"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=salobot-discord&layout=compact&theme=dark">
+  <a href="https://github.com/MatiasBlanc/Canvas-con-teclas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=Canvas-con-teclas&hide=html,scss,css&langs_count=10&layout=compact&theme=dark">
 </p>
