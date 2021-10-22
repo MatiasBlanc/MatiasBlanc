@@ -28,9 +28,9 @@
 
 ### 🚀 I’m currently learning
 <ol>
-<li> English (https://discord.gg/63FUkwjTZa)</li>
-<li> Javascript</li>
 <li> React</li>
+<li> Node.js</li>
+<li> English (https://discord.gg/63FUkwjTZa)</li>
 </ol>
 
 ### 📚 My reading list
