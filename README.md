@@ -57,7 +57,7 @@
 
 ### Contact me for
    I have a [discord](https://discord.gg/4FUtbhatAg) <br>
-   Mail: in development <br>
+   Mail: [Mail]founder@sendero.tech <br>
    Website: in development <br>
 
 
