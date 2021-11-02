@@ -40,8 +40,8 @@
 
 ### 🔭 I’m currently working on
 <ul>
-<li> Cripto-bal </li>
-<li> To-do list </li>
+<li> Sendero Tecnologico website </li>
+<li> Linktree SendTech </li>
 <li> e-commerce </li>
 </ul>
 
