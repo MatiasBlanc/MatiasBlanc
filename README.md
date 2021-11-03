@@ -35,6 +35,7 @@
 
 ### 📚 My reading list
 <ul>
+<li> El libro negro del programador </li>
 <li> Steve Jobs ( Author: Walter Isaacson )</li>
 </ul>
 
