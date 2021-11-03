@@ -63,8 +63,8 @@
 
 
 <!-- Links -->
-[website]: https://linktr.ee/senderotecnologico
-[abilites]: https://linktr.ee/senderotecnologico
+[website]: https://redes.sendero.tech/
+[abilites]: https://redes.sendero.tech/
 ### Statistics
 <p align="left">
   <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=dark">
