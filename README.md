@@ -42,8 +42,7 @@
 ### 🔭 I’m currently working on
 <ul>
 <li> Sendero Tecnologico website </li>
-<li> Linktree SendTech </li>
-<li> e-commerce </li>
+<li> Portfolio </li>
 </ul>
 
 <!-- ### 👯 I am looking for a job in -->
