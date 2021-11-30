@@ -57,9 +57,10 @@
 
 ### Contact me for
    I have a [discord](https://discord.gg/4FUtbhatAg) <br>
-   Mail: [Mail](founder@sendero.tech) <br>
+   Mail: [founder@sendero.tech](founder@sendero.tech) <br>
    Website: in development <br>
 
+### Support me
 
 <!-- Links -->
 [website]: https://redes.sendero.tech/
