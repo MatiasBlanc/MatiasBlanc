@@ -30,7 +30,7 @@
 <ol>
 <li> React</li>
 <li> Node.js</li>
-<li> [English](https://discord.gg/63FUkwjTZa)</li>
+<li> English</li>
 </ol>
 
 ### 📚 My reading list
