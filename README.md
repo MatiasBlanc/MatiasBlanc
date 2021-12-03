@@ -81,7 +81,7 @@
 [abilites]: https://redes.sendero.tech/
 
 ## Support me
-<a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy_me_a_chocolate&emoji=💙&slug=SendTech&button_colour=24283b&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a chocolate&emoji=💙&slug=SendTech&button_colour=24283b&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 <br>
 
 <p><img width="14px" src="./assets/bitcoin.svg"> Bitcoin: 3C2Q7GTUT1Syw4uVd9bUUXPjdkYYjtxRMi</p>
