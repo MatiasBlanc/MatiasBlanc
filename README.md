@@ -84,12 +84,12 @@
 <a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy_me_a_chocolate&emoji=💙&slug=SendTech&button_colour=24283b&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 <br>
 
-<p><img width="12px" src="./assets/bitcoin.svg"> Bitcoin: 3C2Q7GTUT1Syw4uVd9bUUXPjdkYYjtxRMi</p>
+<p><img width="14px" src="./assets/bitcoin.svg"> Bitcoin: 3C2Q7GTUT1Syw4uVd9bUUXPjdkYYjtxRMi</p>
 
-<p><img width="12px" src="./assets/ethereum.svg"> Ethereum: 0xa569c9c4a39d0b032cb37d4609cfa765a5a258c2</p>
+<p><img width="14px" src="./assets/ethereum.svg"> Ethereum: 0xa569c9c4a39d0b032cb37d4609cfa765a5a258c2</p>
 
-<p><img width="12px" src="./assets/bitcoin-cash.svg"> Bitcoin Cash: 38gBFysYcwfDF73R64eiUiPJX9vGqGv8VA</p>
+<p><img width="14px" src="./assets/bitcoin-cash.svg"> Bitcoin Cash: 38gBFysYcwfDF73R64eiUiPJX9vGqGv8VA</p>
 
-<p><img width="12px" src="./assets/litecoin.svg"> Litecoin: MKVKB6Xtijy4ntSYbPHv8VYkdB9F7YZbao</p>
+<p><img width="14px" src="./assets/litecoin.svg"> Litecoin: MKVKB6Xtijy4ntSYbPHv8VYkdB9F7YZbao</p>
 
-<p><img width="12px" src="./assets/usd-coin.svg"> USD Coin: 0xd9391c9848f1c58d0775834d05499f1609e0a2f8</p>
+<p><img width="14px" src="./assets/usd-coin.svg"> USD Coin: 0xd9391c9848f1c58d0775834d05499f1609e0a2f8</p>
