@@ -11,25 +11,36 @@
 </a>
 </div>
 
----
-#### Hi, What’s up? 
+# Hi, What’s up? 👋
 <br>
 
-# My [Web][website] here 👋
+<div align="center">
+  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=tokyonight"></a>
+  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBlanc&&langs_count=10&layout=compact&theme=tokyonight"></a>
+</div>
+<br>
+<div align="center" width="100%">
+  <img width="85%" src="https://github-profile-trophy.vercel.app/?username=MatiasBlanc&theme=onedark">
+</div>
+<br>
 
 ## 🎯 skills
 <div width="100%">
-<img align="left" alt="logo-html" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+<img align="left" alt="Html" src="https://img.shields.io/badge/HTML-skill?style=for-the-badge&logo=html5&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 
-<img align="left" alt="logo-css" src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+<img align="left" alt="Css" src="https://img.shields.io/badge/Css-skill?style=for-the-badge&logo=Css3&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 
-<img align="left" alt="logo-Js" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+<img align="left" alt="Js" src="https://img.shields.io/badge/JavaScript-skill?style=for-the-badge&logo=javascript&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 
-<img align="left" alt="logo-Js" src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+<img align="left" alt="Figma" src="https://img.shields.io/badge/figma-skill?style=for-the-badge&logo=figma&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 
-<img align="left" alt="logo-Js" src="https://img.shields.io/badge/nvim-green?style=for-the-badge&logo=neovim&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+<img align="left" alt="Terminal" src="https://img.shields.io/badge/Bash-skill?style=for-the-badge&logo=GNU-bash&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+
+<img align="left" alt="NeoVim" src="https://img.shields.io/badge/nvim-skill?style=for-the-badge&logo=neovim&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+
+<img align="left" alt="Terminal" src="https://img.shields.io/badge/code-skill?style=for-the-badge&logo=Visual Studio Code&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 </div>
-<br><br><br>
+<br><br>
 
 ## 🚀 I’m currently learning
 <ol>
@@ -51,34 +62,6 @@
 </ul>
 
 <br>
-
-## Statistics
-<br>
-<div align="center">
-  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=tokyonight">
-  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBlanc&&langs_count=10&layout=compact&theme=tokyonight">
-</div>
-<br>
-<div align="center" width="100%">
-  <img width="75%" src="https://github-profile-trophy.vercel.app/?username=MatiasBlanc&theme=onedark">
-</div>
-<br>
-
-## My repos
-<br>
-<div align="center">
-  
-   <a href="https://github.com/MatiasBlanc/Peso-Planetastico"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=config-nvim&langs_count=5&theme=tokyonight">
-  <a href="https://github.com/MatiasBlanc/motorbike-sistem"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&card_height=300&&repo=motorbike-sistem&langs_count=5&layout=compact&theme=tokyonight">
-  <a href="https://github.com/MatiasBlanc/salobot-discord"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=To-Do-list&layout=compact&theme=tokyonight">
-  <a href="https://github.com/MatiasBlanc/Canvas-con-teclas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=NFT-card&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
-  <a href="https://github.com/MatiasBlanc/Canvas-con-teclas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SendTech&repo=linktree-page&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
-  <a href="https://github.com/MatiasBlanc/Canvas-con-teclas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=Juego-con-css&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
-</div>
-
-<!-- Links -->
-[website]: https://redes.sendero.tech/
-[abilites]: https://redes.sendero.tech/
 
 ## Support me
 <a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a chocolate&emoji=💙&slug=SendTech&button_colour=24283b&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
