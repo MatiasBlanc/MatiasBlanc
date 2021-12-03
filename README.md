@@ -20,7 +20,7 @@
 </div>
 <br>
 <div align="center" width="100%">
-  <img width="85%" src="https://github-profile-trophy.vercel.app/?username=MatiasBlanc&theme=onedark">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MatiasBlanc&theme=onedark">
 </div>
 <br>
 
