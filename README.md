@@ -1,13 +1,16 @@
 <!-- Social Media -->
 <div width="100%" align="center">
 <a href="https://twitter.com/Sendero_Tech/">
-  <img src="https://img.shields.io/twitter/follow/Sendero_Tech?color=%2324283B&label=Followers&labelColor=%23181C29&logo=twitter&logoColor=%23498CB7&style=for-the-badge">
+  <img src="https://img.shields.io/twitter/follow/Sendero_Tech?color=%2324283B&label=Followers&labelColor=%23181C29&logo=twitter&logoColor=%23539BF5&style=for-the-badge">
 </a>
 <a href="https://www.youtube.com/channel/UC9qwrWMA03Asi5H8IMrZC9A">
   <img src="https://img.shields.io/youtube/channel/subscribers/UC9qwrWMA03Asi5H8IMrZC9A?color=%2324283B&label=Subscribers&labelColor=%23181C29&logo=YouTube&logoColor=%23C74749&style=for-the-badge">
 </a>
 <a href="https://GitHub.com/MatiasBlanc/">
   <img src="https://img.shields.io/github/followers/MatiasBlanc?color=%2324283B&label=Followers&labelColor=%23181C29&logo=Github&logoColor=%239198BA&style=for-the-badge">
+</a>
+<a href="https://twitter.com/Sendero_Tech/">
+  <img src="https://img.shields.io/discord/790972361688088617?color=%2324283B&label=Server&labelColor=%23181C29&logo=discord&logoColor=%235765F2&style=for-the-badge">
 </a>
 </div>
 
@@ -36,17 +39,19 @@
 
 <img align="left" alt="Terminal" src="https://img.shields.io/badge/Bash-skill?style=for-the-badge&logo=GNU-bash&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 
+<a href="https://platzi.com/p/matias-blanc/curso/1557-git-github/diploma/detalle/"><img align="left" alt="Git" src="https://img.shields.io/badge/Git-skill?style=for-the-badge&logo=Git&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B"></a>
+
 <img align="left" alt="NeoVim" src="https://img.shields.io/badge/nvim-skill?style=for-the-badge&logo=neovim&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 
-<img align="left" alt="Terminal" src="https://img.shields.io/badge/code-skill?style=for-the-badge&logo=Visual Studio Code&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+<img align="left" alt="Visual studio code" src="https://img.shields.io/badge/code-skill?style=for-the-badge&logo=Visual Studio Code&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 </div>
 <br><br>
 
 ## 🚀 I’m currently learning
 <ol>
-<li> React</li>
-<li> Node.js</li>
-<li> English</li>
+<li><a href="https://platzi.com/desarrollo-react/" target="_blank">React</a></li>
+<li><a href="https://platzi.com/escuela-javascript/" target="_blank"> Node.js</li></a>
+<li><a href="https://platzi.com/idioma-ingles/" target="_blank">English</li></a>
 </ol>
 
 ## 📚 My reading list
