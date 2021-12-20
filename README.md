@@ -42,8 +42,6 @@
 <a href="https://platzi.com/p/matias-blanc/curso/1557-git-github/diploma/detalle/"><img align="left" alt="Git" src="https://img.shields.io/badge/Git-skill?style=for-the-badge&logo=Git&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B"></a>
 
 <img align="left" alt="NeoVim" src="https://img.shields.io/badge/nvim-skill?style=for-the-badge&logo=neovim&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
-
-<img align="left" alt="Visual studio code" src="https://img.shields.io/badge/code-skill?style=for-the-badge&logo=Visual Studio Code&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 </div>
 <br><br>
 
