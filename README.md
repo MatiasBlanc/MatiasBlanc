@@ -23,7 +23,7 @@
 </div>
 <br>
 <div align="center" width="100%">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MatiasBlanc&theme=onedark">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MatiasBlanc&row=1&column=5&theme=onedark">
 </div>
 <br>
 
@@ -79,3 +79,10 @@
 <p><img width="14px" src="./assets/litecoin.svg"> Litecoin: MKVKB6Xtijy4ntSYbPHv8VYkdB9F7YZbao</p>
 
 <p><img width="14px" src="./assets/usd-coin.svg"> USD Coin: 0xd9391c9848f1c58d0775834d05499f1609e0a2f8</p>
+
+## Interesting repositories
+#### Collaborator
+<div align="center">
+<a href="https://github.com/unifay/curso-javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=unifay&repo=curso-javascript&theme=tokyonight">
+<a href="https://github.com/SendTech/linktree-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SendTech&repo=linktree-page&theme=tokyonight">
+</div>
