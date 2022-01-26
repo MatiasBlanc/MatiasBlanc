@@ -11,7 +11,7 @@
 </a>
 </div>
 
-[# Hi, What’s up? 👋](https://redes.sendero.tech/)
+[ # Hi, What’s up? 👋 ](https://redes.sendero.tech/)
 <br>
 
 <div align="center">
