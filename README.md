@@ -11,7 +11,7 @@
 </a>
 </div>
 <a href="https://redes.sendero.tech/">
-  #### Redes
+  Redes
 </a>
 # Hi, What’s up? 👋
 <br>
