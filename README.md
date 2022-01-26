@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/github/followers/MatiasBlanc?color=%2324283B&label=Followers&labelColor=%23181C29&logo=Github&logoColor=%239198BA&style=for-the-badge">
 </a>
 </div>
-<a href="https://redes.sendero.tech/">
-  Redes
-</a>
+
+<a href="https://redes.sendero.tech/">Redes</a>
+
 # Hi, What’s up? 👋
 <br>
 
