@@ -11,9 +11,7 @@
 </a>
 </div>
 
-<a href="https://redes.sendero.tech/">Redes</a>
-
-# Hi, What’s up? 👋
+[# Hi, What’s up? 👋](https://redes.sendero.tech/)
 <br>
 
 <div align="center">
