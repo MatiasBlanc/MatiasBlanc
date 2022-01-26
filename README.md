@@ -9,12 +9,10 @@
 <a href="https://GitHub.com/MatiasBlanc/">
   <img src="https://img.shields.io/github/followers/MatiasBlanc?color=%2324283B&label=Followers&labelColor=%23181C29&logo=Github&logoColor=%239198BA&style=for-the-badge">
 </a>
-<a href="discord.gg/programadores">
-  <img src="https://img.shields.io/discord/775907616986890261?color=%2324283B&label=Server&labelColor=%23181C29&logo=discord&logoColor=%235765F2&style=for-the-badge">
-</a>
 </div>
 
 # Hi, What’s up? 👋
+<a href="https://redes.sendero.tech/"><h5>Redes</h5></a>
 <br>
 
 <div align="center">
