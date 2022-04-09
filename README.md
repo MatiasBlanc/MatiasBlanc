@@ -28,21 +28,26 @@
 <div width="100%">
 <img align="left" alt="Html" src="https://img.shields.io/badge/HTML-skill?style=for-the-badge&logo=html5&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 
+<a target="_blank" href="https://www.udemy.com/certificate/UC-b6888c6e-2fc6-4ee0-8cff-eddeb378f26c/">
 <img align="left" alt="Css" src="https://img.shields.io/badge/Css-skill?style=for-the-badge&logo=Css3&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
-
+</a>
 <a target="_blank" href="https://codigofacilito.com/cursos/tailwind">
 <img align="left" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-skill?style=for-the-badge&logo=TailwindCss&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 </a>
 
 <img align="left" alt="Js" src="https://img.shields.io/badge/JavaScript-skill?style=for-the-badge&logo=javascript&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 
+<a target="_blank" href="https://codigofacilito.com/bootcamps/react/">
 <img align="left" alt="React" src="https://img.shields.io/badge/React-skill?style=for-the-badge&logo=React&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+</a>
 
 <img align="left" alt="Figma" src="https://img.shields.io/badge/figma-skill?style=for-the-badge&logo=figma&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 
 <a target="_blank" href="https://platzi.com/p/matias-blanc/curso/1557-git-github/diploma/detalle/"><img align="left" alt="Git" src="https://img.shields.io/badge/Git-skill?style=for-the-badge&logo=Git&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B"></a>
 
 <img align="left" alt="NeoVim" src="https://img.shields.io/badge/nvim-skill?style=for-the-badge&logo=neovim&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+  
+<img align="left" alt="VsCode" src="https://img.shields.io/badge/VsCode-skill?style=for-the-badge&logo=visualstudiocode&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
 </div>
 <br><br>
 
