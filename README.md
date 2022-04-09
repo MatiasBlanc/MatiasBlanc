@@ -11,7 +11,7 @@
 </a>
 </div>
 
-# [ Hi, What’s up? 👋](https://redes.sendero.tech/)
+# [ Hi, What’s up? 👋](https://matiasblanc.me/)
 <br>
 
 <div align="center">
@@ -60,14 +60,14 @@
 
 ## 📚 My reading list
 <ul>
-<li> El libro negro del programador </li>
-<li> Steve Jobs ( Author: Walter Isaacson )</li>
+<li> Arsene Lupin </li>
+<li> Steve Jobs ( Author: Walter Isaacson)</li>
 </ul>
 
 ## 🔭 I’m currently working on
 <ul>
-  <li> Mini Projects </li>
   <li> Portfolio </li>
+  <li> PsicoSpaces </li>
 </ul>
 
 <br>
