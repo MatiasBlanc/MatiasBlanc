@@ -94,5 +94,5 @@
 #### Collaborator
 <div align="center">
 <a href="https://github.com/unifay/curso-javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=unifay&repo=curso-javascript&theme=tokyonight">
-<a href="https://github.com/SendTech/linktree-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PsicoSpace&repo=Frontend&theme=tokyonight">
+<a href="https://github.com/SendTech/linktree-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SendTech&repo=linktree-page&theme=tokyonight">
 </div>
