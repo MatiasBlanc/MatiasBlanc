@@ -86,6 +86,10 @@
 
 <p><img width="14px" src="./assets/usd-coin.svg"> USD Coin: 0xd9391c9848f1c58d0775834d05499f1609e0a2f8</p>
 
+## Listening
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=dg3xvd6m0opk9slc6nzd7ife3&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=dg3xvd6m0opk9slc6nzd7ife3&cover_image=true&theme=default&bar_color=1a1b27&bar_color_cover=true)]]
+
 ## Interesting repositories
 #### Collaborator
 <div align="center">
