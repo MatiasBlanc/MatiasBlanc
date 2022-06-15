@@ -88,7 +88,7 @@
 
 ## Listening
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=dg3xvd6m0opk9slc6nzd7ife3&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=dg3xvd6m0opk9slc6nzd7ife3&cover_image=true&theme=default&bar_color=1a1b27&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dg3xvd6m0opk9slc6nzd7ife3&cover_image=true&theme=default&bar_color=1a1b27&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## Interesting repositories
 #### Collaborator
