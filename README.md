@@ -60,14 +60,13 @@
 
 ## 📚 My reading list
 <ul>
-<li> Arsene Lupin </li>
-<li> Steve Jobs ( Author: Walter Isaacson)</li>
+<li> Steve Jobs ( Author: Walter Isaacson) </li>
 </ul>
 
 ## 🔭 I’m currently working on
 <ul>
-  <li> Portfolio </li>
-  <li> PsicoSpaces </li>
+  <li> SaboresCuyanos.com.ar </li>
+  <li> Weather App </li>
 </ul>
 
 <br>
