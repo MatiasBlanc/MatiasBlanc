@@ -79,12 +79,6 @@
 
 <p><img width="14px" src="./assets/ethereum.svg"> Ethereum: 0xa569c9c4a39d0b032cb37d4609cfa765a5a258c2</p>
 
-<p><img width="14px" src="./assets/bitcoin-cash.svg"> Bitcoin Cash: 38gBFysYcwfDF73R64eiUiPJX9vGqGv8VA</p>
-
-<p><img width="14px" src="./assets/litecoin.svg"> Litecoin: MKVKB6Xtijy4ntSYbPHv8VYkdB9F7YZbao</p>
-
-<p><img width="14px" src="./assets/usd-coin.svg"> USD Coin: 0xd9391c9848f1c58d0775834d05499f1609e0a2f8</p>
-
 ## Listening
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dg3xvd6m0opk9slc6nzd7ife3&cover_image=true&theme=default&bar_color=1a1b27&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
