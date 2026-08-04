@@ -3,9 +3,6 @@
 <a href="https://github.com/MatiasBlanc/">
   <img src="https://img.shields.io/github/followers/MatiasBlanc?color=%2324283B&label=Seguidores&labelColor=%23181C29&logo=Github&logoColor=%239198BA&style=for-the-badge">
 </a>
-<a href="https://matiasblanc.dev">
-  <img src="https://img.shields.io/badge/Portfolio-matiasblanc.dev?color=%2324283B&labelColor=%23181C29&logo=astro&logoColor=%23FFFFFF&style=for-the-badge">
-</a>
 <a href="https://x.com/matiasblnc">
   <img src="https://img.shields.io/badge/X-@matiasblnc?color=%2324283B&labelColor=%23181C29&logo=X&logoColor=%23FFFFFF&style=for-the-badge">
 </a>
