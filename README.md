@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/followers/MatiasBlanc?color=%2324283B&label=Seguidores&labelColor=%23181C29&logo=Github&logoColor=%239198BA&style=for-the-badge">
 </a>
 <a href="https://x.com/matiasblnc">
-  <img src="https://img.shields.io/badge/X-@matiasblnc?color=%2324283B&labelColor=%23181C29&logo=X&logoColor=%23FFFFFF&style=for-the-badge">
+  <img src="https://img.shields.io/badge/X-@matiasblnc?color=%2324283B&labelColor=%23181C29&logo=X&logoColor=%23FFFFFF&style=for-the-badge](https://img.shields.io/twitter/follow/matiasblnc?style=for-the-badge&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000">
 </a>
 </div>
 
