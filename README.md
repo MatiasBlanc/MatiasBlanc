@@ -18,12 +18,12 @@ Soy **Matías Blanc**, desarrollador web enfocado en el frontend. Me gusta const
 <br>
 
 <div align="center">
-  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=tokyonight"></a>
-  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBlanc&langs_count=10&layout=compact&theme=tokyonight"></a>
+  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats-delta-smoky-98.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=tokyonight"></a>
+  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats-delta-smoky-98.vercel.app/api/top-langs/?username=MatiasBlanc&langs_count=10&layout=compact&theme=tokyonight"></a>
 </div>
 <br>
 <div align="center" width="100%">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MatiasBlanc&row=1&column=5&theme=onedark">
+  <img width="100%" src="https://github-profile-trophy-beryl-ten.vercel.app/?username=MatiasBlanc&row=1&column=5&theme=onedark">
 </div>
 <br>
 
@@ -64,16 +64,16 @@ Soy **Matías Blanc**, desarrollador web enfocado en el frontend. Me gusta const
 
 <div align="center">
   <a href="https://github.com/MatiasBlanc/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=portfolio&theme=tokyonight">
+    <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api/pin/?username=MatiasBlanc&repo=portfolio&theme=tokyonight">
   </a>
   <a href="https://github.com/MatiasBlanc/itfApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=itfApp&theme=tokyonight">
+    <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api/pin/?username=MatiasBlanc&repo=itfApp&theme=tokyonight">
   </a>
   <a href="https://github.com/MatiasBlanc/zen-reader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=zen-reader&theme=tokyonight">
+    <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api/pin/?username=MatiasBlanc&repo=zen-reader&theme=tokyonight">
   </a>
   <a href="https://github.com/MatiasBlanc/riego-mendoza">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBlanc&repo=riego-mendoza&theme=tokyonight">
+    <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api/pin/?username=MatiasBlanc&repo=riego-mendoza&theme=tokyonight">
   </a>
 </div>
 <br>
