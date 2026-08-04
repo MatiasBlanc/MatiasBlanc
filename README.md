@@ -95,6 +95,8 @@ Soy **Matías Blanc**, desarrollador web enfocado en el frontend. Me gusta const
 
 - Steve Jobs — Walter Isaacson
 
-## 🎧 Escuchando
+## 🎧 Mi playlist de Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dg3xvd6m0opk9slc6nzd7ife3&cover_image=true&theme=default&bar_color=1a1b27&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://open.spotify.com/playlist/2dgHzy8SbkprZvN31asVjs">
+  <img src="https://img.shields.io/badge/Spotify-Playlist?style=for-the-badge&logo=spotify&logoColor=white&labelColor=%23181C29&color=%231DB954">
+</a>
