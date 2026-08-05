@@ -1,86 +1,89 @@
-<!-- Social Media -->
-<div width="100%" align="center">
-<a href="https://github.com/MatiasBlanc/">
-  <img src="https://img.shields.io/github/followers/MatiasBlanc?color=%2324283B&label=Seguidores&labelColor=%23181C29&logo=Github&logoColor=%239198BA&style=for-the-badge">
-</a>
-<a href="https://x.com/matiasblnc">
-  <img src="https://img.shields.io/badge/X-@matiasblnc?color=%2324283B&labelColor=%23181C29&logo=X&logoColor=%23FFFFFF&style=for-the-badge](https://img.shields.io/twitter/follow/matiasblnc?style=for-the-badge&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000">
-</a>
-</div>
+<!-- ===================== -->
+<!--   GitHub Profile README -->
+<!-- ===================== -->
 
-# Hola, ¿qué tal? 👋
+<h1 align="center">Matías Blanc</h1>
 
-Soy **Matías Blanc**, desarrollador web enfocado en el frontend. Me gusta construir interfaces limpias y aprender algo nuevo todos los días. Podés ver mi trabajo en [matiasblanc.dev](https://matiasblanc.dev).
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Interfaces+limpias+y+funcionales;Astro+React+y+Tailwind;Aprendiendo+algo+nuevo+cada+d%C3%ADa" />
+</p>
 
-<br>
+<p align="center">
+  Frontend • UI • Web Apps
+</p>
 
-<div align="center">
-  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats-delta-smoky-98.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=tokyonight"></a>
-  <a href="https://github.com/MatiasBlanc"><img width="400" src="https://github-readme-stats-delta-smoky-98.vercel.app/api/top-langs/?username=MatiasBlanc&langs_count=10&layout=compact&theme=tokyonight"></a>
-</div>
-<br>
-<div align="center" width="100%">
-  <img width="100%" src="https://github-profile-trophy-beryl-ten.vercel.app/?username=MatiasBlanc&row=1&column=5&theme=onedark">
-</div>
-<br>
-
-## 🛠️ Tecnologías
-
-<div width="100%">
-  <img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-skill?style=for-the-badge&logo=html5&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
-
-  <a target="_blank" href="https://www.udemy.com/certificate/UC-b6888c6e-2fc6-4ee0-8cff-eddeb378f26c/">
-    <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-skill?style=for-the-badge&logo=Css3&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+<p align="center">
+  <a href="https://github.com/MatiasBlanc">
+    <img src="https://img.shields.io/github/followers/MatiasBlanc?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Seguidores&labelColor=%23181C29&color=%2324283B">
   </a>
-
-  <a target="_blank" href="https://codigofacilito.com/cursos/tailwind">
-    <img align="left" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-skill?style=for-the-badge&logo=TailwindCss&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+  <a href="https://x.com/matiasblnc">
+    <img src="https://img.shields.io/badge/X-@matiasblnc?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=%23181C29&color=%2324283B">
   </a>
-
-  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-skill?style=for-the-badge&logo=javascript&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
-
-  <a target="_blank" href="https://codigofacilito.com/bootcamps/react/">
-    <img align="left" alt="React" src="https://img.shields.io/badge/React-skill?style=for-the-badge&logo=React&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+  <a href="https://matiasblanc.dev">
+    <img src="https://img.shields.io/badge/Web-matiasblanc.dev?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=%23181C29&color=%2324283B">
   </a>
-
-  <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-skill?style=for-the-badge&logo=figma&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
-
-  <a target="_blank" href="https://platzi.com/p/matias-blanc/curso/1557-git-github/diploma/detalle/">
-    <img align="left" alt="Git" src="https://img.shields.io/badge/Git-skill?style=for-the-badge&logo=Git&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+  <a href="https://open.spotify.com/playlist/2dgHzy8SbkprZvN31asVjs">
+    <img src="https://img.shields.io/badge/Spotify-Playlist?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=%23181C29&color=1DB954">
   </a>
+</p>
 
-  <img align="left" alt="NeoVim" src="https://img.shields.io/badge/Neovim-skill?style=for-the-badge&logo=neovim&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+---
 
-  <img align="left" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-skill?style=for-the-badge&logo=visualstudiocode&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
+## 🧠 Sobre mí
 
-  <img align="left" alt="Astro" src="https://img.shields.io/badge/Astro-skill?style=for-the-badge&logo=astro&logoColor=%239198BA&labelColor=%23181C29&color=%2324283B">
-</div>
-<br><br>
+Desarrollador web enfocado en el **frontend**. Me gusta construir interfaces limpias y funcionales, prestar atención al detalle y aprender algo nuevo todos los días.
 
-## 🚀 Proyectos destacados
+Mi trabajo en [matiasblanc.dev](https://matiasblanc.dev).
 
-<div align="center">
-  <a href="https://github.com/MatiasBlanc/portfolio">
-    <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api/pin/?username=MatiasBlanc&repo=portfolio&theme=tokyonight">
-  </a>
-  <a href="https://github.com/MatiasBlanc/itfApp">
-    <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api/pin/?username=MatiasBlanc&repo=itfApp&theme=tokyonight">
-  </a>
-  <a href="https://github.com/MatiasBlanc/zen-reader">
-    <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api/pin/?username=MatiasBlanc&repo=zen-reader&theme=tokyonight">
-  </a>
-  <a href="https://github.com/MatiasBlanc/riego-mendoza">
-    <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api/pin/?username=MatiasBlanc&repo=riego-mendoza&theme=tokyonight">
-  </a>
-</div>
-<br>
+---
 
-## 🔭 En lo que estoy trabajando
+## 🧩 Proyectos
 
-- [Portfolio y blog](https://github.com/MatiasBlanc/portfolio) — sitio personal con Astro y Tailwind
-- [Zen Reader](https://github.com/MatiasBlanc/zen-reader) — lector minimalista
-- [Riego Mendoza](https://github.com/MatiasBlanc/riego-mendoza) — app de riego para Mendoza
-- Sabores Cuyanos
+**Portfolio y blog**  
+Sitio personal y blog construido con Astro y Tailwind CSS
+
+**Zen Reader**  
+Lector minimalista para leer sin distracciones
+
+**Riego Mendoza**  
+App de riego pensada para Mendoza
+
+**itfApp**  
+App en desarrollo
+
+**Sabores Cuyanos**  
+Proyecto en camino
+
+Siempre estoy trabajando en proyectos nuevos, MVPs y experimentos alrededor de la web y la experiencia de usuario.
+
+---
+
+## 🛠 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,astro,figma,git,neovim,vscode" />
+</p>
+
+Herramientas: VS Code · NeoVim · Git · Figma · Astro · Tailwind CSS
+
+---
+
+## 📊 Actividad
+
+<p align="center">
+  <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-delta-smoky-98.vercel.app/api/top-langs/?username=MatiasBlanc&langs_count=10&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MatiasBlanc&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatiasBlanc&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 
 ## 🌱 Actualmente aprendiendo
 
@@ -92,8 +95,17 @@ Soy **Matías Blanc**, desarrollador web enfocado en el frontend. Me gusta const
 
 - Steve Jobs — Walter Isaacson
 
-## 🎧 Mi playlist de Spotify
+---
 
-<a href="https://open.spotify.com/playlist/2dgHzy8SbkprZvN31asVjs">
-  <img src="https://img.shields.io/badge/Spotify-Playlist?style=for-the-badge&logo=spotify&logoColor=white&labelColor=%23181C29&color=%231DB954">
-</a>
+## 🎯 Enfoque
+
+- Interfaces limpias y accesibles
+- Frontend y experiencia de usuario
+- Aprender algo nuevo todos los días
+- Proyectos personales y experimentos
+
+---
+
+<p align="center">
+  <i>Construyendo interfaces limpias. Aprendiendo todos los días.</i>
+</p>
