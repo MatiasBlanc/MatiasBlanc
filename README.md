@@ -2,20 +2,20 @@
 <!--   GitHub Profile README - Matías Blanc (@MatiasBlanc)   -->
 <!-- ======================================================== -->
 
-<h1 align="center">Hola, soy Matías Blanc 👋</h1>
+<h1 align="center">Hi there, I'm Matías Blanc 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Frontend+%26+Mobile+Developer;Estudiante+de+Ing.+Civil+en+Computaci%C3%B3n;Interfaces+limpias%2C+r%C3%A1pidas+y+accesibles;Astro+%E2%80%A2+React+%E2%80%A2+React+Native+%E2%80%A2+Tailwind;Construyendo+productos+con+foco+en+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Frontend+%26+Mobile+Developer;Computer+Science+Engineering+Student;Clean%2C+fast+%26+accessible+interfaces;Astro+%E2%80%A2+React+%E2%80%A2+React+Native+%E2%80%A2+Tailwind;Building+products+with+UX+focus" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Frontend & Mobile Developer</b> • Estudiante de Ingeniería Civil en Computación e Informática (UCN).<br/>
-  Apasionado por el diseño de interfaces limpias, rendimiento y experiencia de usuario.
+  <b>Frontend & Mobile Developer</b> • Computer Science Engineering Student @ UCN (Chile).<br/>
+  Passionate about clean interface design, web performance, and user experience.
 </p>
 
 <p align="center">
   <a href="https://matiasblanc.dev">
-    <img src="https://img.shields.io/badge/Web-matiasblanc.dev-24283B?style=for-the-badge&logo=vercel&logoColor=7AA2F7" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-matiasblanc.dev-24283B?style=for-the-badge&logo=vercel&logoColor=7AA2F7" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/matiasblanc">
     <img src="https://img.shields.io/badge/LinkedIn-Matías_Blanc-24283B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
@@ -32,96 +32,56 @@
 </p>
 
 <!-- ======================================================== -->
-<!--   BILINGUAL TOGGLE / SWITCHER                            -->
+<!--   BILINGUAL TOGGLE: READ IN SPANISH                      -->
 <!-- ======================================================== -->
 <div align="center">
-  <p>
-    <b>🇪🇸 Versión en Español</b> | <i>Para la versión en inglés, despliega el menú abajo 👇</i>
-  </p>
+  <details>
+    <summary>🇪🇸 <b>Haz clic aquí para leer en español / Read in Spanish</b></summary>
+    <br/>
+
+    <h3 align="center">Hola, soy Matías Blanc 👋</h3>
+
+    <p align="center">
+      <b>Frontend & Mobile Developer</b> • Estudiante de Ingeniería Civil en Computación e Informática (UCN).<br/>
+      Apasionado por el diseño de interfaces limpias, rendimiento y experiencia de usuario.
+    </p>
+
+    #### 🚀 Sobre mí
+    - 🎓 Estudiante de **Ingeniería Civil en Computación e Informática** en la Universidad Católica del Norte (UCN).
+    - 💻 Desarrollador enfocado en **Frontend & Mobile (Astro, React, React Native, Tailwind CSS)** y herramientas CLI.
+    - 🎨 Cuidando cada detalle de la interfaz: accesibilidad, rendimiento, tipografía y diseño intuitivo.
+    - 📍 Coquimbo, Chile • Disponible para proyectos y colaboraciones.
+
+    #### 🌟 Proyectos Destacados
+    - **📖 Zen Reader**: Extensión de navegador minimalista para guardar y leer artículos sin distracciones, 100% local y sin backend.
+    - **🤖 Trending2Tweet**: Asistente CLI local que detecta tendencias tech y genera contenido técnico en Obsidian con IA. 100% privado.
+    - **🥋 Fechitat Website**: Sitio web oficial de la Federación Chilena de Taekwon-Do Tradicional: directorio interactivo, blog y portal de contacto.
+    - **🌐 Portfolio & Blog Personal**: Sitio web de alto rendimiento donde documento mi camino académico y proyectos técnicos.
+    - **🇨🇱 Made in Chile (chilenos.dev)**: Directorio y comunidad para visibilizar proyectos tecnológicos independientes creados en Chile.
+
+    ---
+  </details>
 </div>
 
-<details>
-  <summary>🇺🇸 <b>Click here to read this profile in English / Haz clic para leer en inglés</b></summary>
-  <br/>
+---
 
-  <h2 align="center">Hi there, I'm Matías Blanc 👋</h2>
+### 🚀 About Me
 
-  <p align="center">
-    <b>Frontend & Mobile Developer</b> • Computer Science Engineering Student (UCN, Chile).<br/>
-    Focused on clean interface design, web performance, and user experience.
-  </p>
-
-  ### 🚀 About Me
-  - 🎓 Studying **Computer Science Engineering** at Universidad Católica del Norte (UCN).
-  - 💻 Building modern Web & Mobile apps using **Astro, React, React Native, and Tailwind CSS**.
-  - 🎨 Obsessed with details: intuitive design, typography, accessibility, and high performance.
-  - 📍 Coquimbo, Chile • Open to projects and opportunities.
-
-  ### 🌟 Featured Projects
-  <table>
-    <thead>
-      <tr>
-        <th width="35%">Project</th>
-        <th width="45%">Description</th>
-        <th width="20%">Links</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>📖 Zen Reader</b><br/><sub><code>JavaScript</code> <code>Tailwind</code> <code>Web API</code></sub></td>
-        <td>Minimalist, 100% local read-it-later browser extension to read articles distraction-free. No accounts, fully offline.</td>
-        <td><a href="https://github.com/MatiasBlanc/zen-reader">💻 Repo</a></td>
-      </tr>
-      <tr>
-        <td><b>🤖 Trending2Tweet</b><br/><sub><code>Python</code> <code>CLI/TUI</code> <code>AI</code> <code>Obsidian</code></sub></td>
-        <td>Local CLI/TUI assistant detecting tech trends and drafting quizzes and threads into Obsidian with AI. 100% private.</td>
-        <td><a href="https://github.com/MatiasBlanc/Trending2Tweet">💻 Repo</a></td>
-      </tr>
-      <tr>
-        <td><b>🥋 Fechitat Website</b><br/><sub><code>Astro</code> <code>Tailwind CSS</code> <code>SEO</code></sub></td>
-        <td>Official production website for the Chilean Traditional Taekwon-Do Federation: club directory map, blog, and contact portal.</td>
-        <td><a href="https://github.com/MatiasBlanc/fechitat-website">💻 Repo</a></td>
-      </tr>
-      <tr>
-        <td><b>🌐 Portfolio & Blog</b><br/><sub><code>Astro</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code></sub></td>
-        <td>Personal portfolio and technical blog documenting my engineering journey and development projects.</td>
-        <td><a href="https://matiasblanc.dev">🌐 Web</a> • <a href="https://github.com/MatiasBlanc/portfolio">💻 Repo</a></td>
-      </tr>
-      <tr>
-        <td><b>🇨🇱 Made in Chile (chilenos.dev)</b><br/><sub><code>Astro</code> <code>React</code> <code>Tailwind CSS</code></sub></td>
-        <td>Curated open directory celebrating and showcasing independent tech projects built in Chile.</td>
-        <td><a href="https://chilenos.dev">🌐 Web</a></td>
-      </tr>
-    </tbody>
-  </table>
-
-  ### 🛠️ Tech Stack & Tools
-  - **Frontend:** Astro, React, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript
-  - **Mobile & Backend:** React Native, Expo, Node.js, Python
-  - **Tools & Workflow:** Git, GitHub, Figma, VS Code, Neovim, Linux (Fedora), Bash
-
-  ---
-</details>
+- 🎓 **Computer Science Engineering Student** at Universidad Católica del Norte (UCN), Chile.
+- 💻 Building modern Web & Mobile applications using **Astro, React, React Native, and Tailwind CSS**, as well as developer CLI tools.
+- 🎨 Obsessed with interface details: intuitive design, typography, accessibility, and high performance.
+- 📍 Coquimbo, Chile • Open to software projects, internships, and collaborations.
 
 ---
 
-### 🚀 Sobre mí
-
-- 🎓 Estudiante de **Ingeniería Civil en Computación e Informática** en la Universidad Católica del Norte (UCN).
-- 💻 Desarrollador enfocado en **Frontend & Mobile (Astro, React, React Native, Tailwind CSS)** y herramientas CLI.
-- 🎨 Cuidando cada detalle de la interfaz: accesibilidad, rendimiento, tipografía y diseño intuitivo.
-- 📍 Coquimbo, Chile • Disponible para proyectos y colaboraciones.
-
----
-
-### 🌟 Proyectos Destacados
+### 🌟 Featured Projects
 
 <table>
   <thead>
     <tr>
-      <th width="35%">Proyecto</th>
-      <th width="45%">Descripción</th>
-      <th width="20%">Enlaces</th>
+      <th width="35%">Project</th>
+      <th width="45%">Description</th>
+      <th width="20%">Links</th>
     </tr>
   </thead>
   <tbody>
@@ -130,7 +90,7 @@
         <b>📖 Zen Reader</b><br/>
         <sub><code>JavaScript</code> <code>Tailwind CSS</code> <code>Web API</code></sub>
       </td>
-      <td>Extensión de navegador minimalista para guardar y leer artículos sin distracciones, 100% local y sin backend.</td>
+      <td>Minimalist, 100% local read-it-later browser extension. Save articles and read them distraction-free — zero tracking, offline-first, no accounts needed.</td>
       <td>
         <a href="https://github.com/MatiasBlanc/zen-reader">💻 Repo</a>
       </td>
@@ -140,7 +100,7 @@
         <b>🤖 Trending2Tweet</b><br/>
         <sub><code>Python</code> <code>CLI / TUI</code> <code>AI</code> <code>Obsidian</code></sub>
       </td>
-      <td>Asistente CLI local que detecta tendencias tech y genera hilos, quizzes y contenido técnico directamente en Obsidian con IA.</td>
+      <td>Local-first CLI & TUI assistant discovering tech trends and drafting quizzes, threads, and technical notes directly into Obsidian with LLMs. 100% private.</td>
       <td>
         <a href="https://github.com/MatiasBlanc/Trending2Tweet">💻 Repo</a>
       </td>
@@ -150,17 +110,17 @@
         <b>🥋 Fechitat Website</b><br/>
         <sub><code>Astro</code> <code>Tailwind CSS</code> <code>SEO</code></sub>
       </td>
-      <td>Sitio web oficial de la Federación Chilena de Taekwon-Do Tradicional: directorio interactivo de clubes, organigrama y portal de noticias.</td>
+      <td>Official production website for the Chilean Traditional Taekwon-Do Federation: interactive club locator map, organizational chart, and official news portal.</td>
       <td>
         <a href="https://github.com/MatiasBlanc/fechitat-website">💻 Repo</a>
       </td>
     </tr>
     <tr>
       <td>
-        <b>🌐 Portfolio & Blog Personal</b><br/>
+        <b>🌐 Portfolio & Blog</b><br/>
         <sub><code>Astro</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code></sub>
       </td>
-      <td>Sitio web de alto rendimiento donde documento mi camino académico, proyectos técnicos y artículos sobre desarrollo.</td>
+      <td>High-performance personal website and technical blog documenting my engineering journey, software architecture, and web development insights.</td>
       <td>
         <a href="https://matiasblanc.dev">🌐 Web</a> • 
         <a href="https://github.com/MatiasBlanc/portfolio">💻 Repo</a>
@@ -171,7 +131,7 @@
         <b>🇨🇱 Made in Chile (chilenos.dev)</b><br/>
         <sub><code>Astro</code> <code>React</code> <code>Tailwind CSS</code></sub>
       </td>
-      <td>Directorio y comunidad para visibilizar proyectos tecnológicos independientes creados en Chile.</td>
+      <td>Curated open-source directory and community platform showcasing digital products, tools, and SaaS built by Chilean developers.</td>
       <td>
         <a href="https://chilenos.dev">🌐 Web</a>
       </td>
@@ -181,7 +141,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <b>Frontend:</b><br/>
@@ -195,13 +155,13 @@
 </p>
 
 <p align="left">
-  <b>Herramientas & Entorno de Trabajo:</b><br/>
+  <b>Workflow & Environment:</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,neovim,linux,bash" alt="Tools" />
 </p>
 
 ---
 
-### 📊 Métricas de GitHub
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats-delta-smoky-98.vercel.app/api?username=MatiasBlanc&show_icons=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=7AA2F7" alt="GitHub Stats" />
@@ -214,21 +174,21 @@
 
 ---
 
-### 🎯 Enfoque Actual
+### 🎯 Current Focus
 
-- 📱 Profundizando en **React Native & Expo** para aplicaciones móviles.
-- ⚡ Desarrollando aplicaciones web optimizadas con **Astro & React**.
-- 📚 Avanzando en la carrera de Ingeniería Civil en Computación e Informática (UCN).
+- 📱 Deepening cross-platform mobile architecture with **React Native & Expo**.
+- ⚡ Building fast, accessible web applications with **Astro & React Server Components**.
+- 📚 Advancing through my **Computer Science Engineering** degree at UCN.
 
 ---
 
-### 📬 Conectemos
+### 📬 Let's Connect
 
-¿Tienes una idea, consulta o te gustaría colaborar en un proyecto?
+Have a project idea, question, or want to collaborate? Feel free to reach out!
 
 <p align="left">
   <a href="mailto:matias.f.blanc@gmail.com">
-    <img src="https://img.shields.io/badge/Charlemos_por_Email-matias.f.blanc@gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=181C29&labelColor=24283B" alt="Email me" />
+    <img src="https://img.shields.io/badge/Drop_an_Email-matias.f.blanc@gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=181C29&labelColor=24283B" alt="Email me" />
   </a>
   <a href="https://www.linkedin.com/in/matiasblanc">
     <img src="https://img.shields.io/badge/LinkedIn-Matías_Blanc-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=181C29&labelColor=24283B" alt="LinkedIn" />
@@ -236,5 +196,5 @@
 </p>
 
 <p align="center">
-  <i>"Construyendo interfaces limpias. Aprendiendo algo nuevo todos los días."</i>
+  <i>"Building clean interfaces. Learning something new every day."</i>
 </p>
