@@ -14,17 +14,14 @@
 </p>
 
 <p align="center">
-  <a href="https://matiasblanc.dev">
-    <img src="https://img.shields.io/badge/Web-matiasblanc.dev-24283B?style=for-the-badge&logo=vercel&logoColor=7AA2F7" alt="Website" />
+  <a href="https://mb.madeinchile.tech">
+    <img src="https://img.shields.io/badge/Web-matiasblanc-24283B?style=for-the-badge&logo=vercel&logoColor=7AA2F7" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/matiasblanc">
     <img src="https://img.shields.io/badge/LinkedIn-Matías_Blanc-24283B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://x.com/matiasblnc">
     <img src="https://img.shields.io/badge/X-@matiasblnc-24283B?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X / Twitter" />
-  </a>
-  <a href="mailto:matias.f.blanc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-matias.f.blanc@gmail.com-24283B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   <a href="https://open.spotify.com/playlist/2dgHzy8SbkprZvN31asVjs">
     <img src="https://img.shields.io/badge/Spotify-Playlist-24283B?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify" />
@@ -75,22 +72,12 @@
     </tr>
     <tr>
       <td>
-        <b>🥋 Fechitat Website</b><br/>
-        <sub><code>Astro</code> <code>Tailwind CSS</code> <code>SEO</code></sub>
-      </td>
-      <td>Sitio web oficial de la Federación Chilena de Taekwon-Do Tradicional: directorio interactivo de clubes, organigrama y portal de noticias.</td>
-      <td>
-        <a href="https://github.com/MatiasBlanc/fechitat-website">💻 Repo</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>🌐 Portfolio & Blog Personal</b><br/>
         <sub><code>Astro</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code></sub>
       </td>
       <td>Sitio web de alto rendimiento donde documento mi camino académico, proyectos técnicos y artículos sobre desarrollo.</td>
       <td>
-        <a href="https://matiasblanc.dev">🌐 Web</a> • 
+        <a href="https://mb.madeinchile.tech">🌐 Web</a> • 
         <a href="https://github.com/MatiasBlanc/portfolio">💻 Repo</a>
       </td>
     </tr>
@@ -101,7 +88,7 @@
       </td>
       <td>Directorio y comunidad abierta para visibilizar productos digitales, herramientas y proyectos independientes creados en Chile.</td>
       <td>
-        <a href="https://chilenos.dev">🌐 Web</a>
+        <a href="https://madeinchile.tech">🌐 Web</a>
       </td>
     </tr>
   </tbody>
@@ -155,9 +142,6 @@
 ¿Tienes una idea de proyecto, consulta o te gustaría colaborar? ¡Hablemos!
 
 <p align="left">
-  <a href="mailto:matias.f.blanc@gmail.com">
-    <img src="https://img.shields.io/badge/Charlemos_por_Email-matias.f.blanc@gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=181C29&labelColor=24283B" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/matiasblanc">
     <img src="https://img.shields.io/badge/LinkedIn-Matías_Blanc-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=181C29&labelColor=24283B" alt="LinkedIn" />
   </a>
